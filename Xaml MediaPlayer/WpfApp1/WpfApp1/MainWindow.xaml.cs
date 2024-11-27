@@ -16,6 +16,7 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
+        public string imagePath = "C:\\Users\\Uporabnik\\Documents\\GitHub\\MediaPlayer\\Xaml MediaPlayer\\WpfApp1\\Images";
         public MainWindow()
         {
             InitializeComponent();
@@ -53,6 +54,46 @@ namespace WpfApp1
         public void button1Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Button 1 clicked");
+        }
+
+        private void StopClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PlayClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PauseClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PreviousClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void NextClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RepeatClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ShuffleClick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ListViewItem_Selected(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
