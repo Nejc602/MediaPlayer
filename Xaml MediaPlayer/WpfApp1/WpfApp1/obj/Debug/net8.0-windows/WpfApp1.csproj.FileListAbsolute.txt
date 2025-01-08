@@ -21,7 +21,6 @@ C:\Users\Uporabnik\Desktop\Discord\Xaml discord\WpfApp1\WpfApp1\obj\Debug\net8.0
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
-C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
 C:\Users\Uporabnik\Documents\GitHub\MediaPlayer\Xaml MediaPlayer\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
